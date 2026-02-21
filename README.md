@@ -1,2 +1,2 @@
-# tyahutagaol.comforthotel.github.id
+# comforthotel
 Website Hotel StayComfort
